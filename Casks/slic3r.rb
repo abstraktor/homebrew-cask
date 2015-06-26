@@ -8,4 +8,5 @@ cask :v1 => 'slic3r' do
   license :affero
 
   app 'Slic3r.app'
+  binary 'Slic3r.app/Contents/MacOS/slic3r'
 end
